@@ -6,13 +6,13 @@ https://www.romhacking.net/hacks/6449/
 
 More information about the project is available at the above link as well.
 
-##IPS
+## IPS
 
 These patches implement the changes that had to be hacked into the ROM manually. They are meant to be stacked, and can be applied with any decent IPS patching tool.
 
 The patch to implement the Arizona Boy border WILL NOT WORK on a ROM that has not had at least one border added via the SGB2 Border Injector (see below)
 
-##PNG
+## PNG
 
 These images can be injected into the ROM using the SGB2 Border Injector by Blizz:
 
