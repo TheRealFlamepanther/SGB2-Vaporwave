@@ -14,7 +14,7 @@ The patch to implement the Arizona Boy border WILL NOT WORK on a ROM that has no
 
 ## PNG
 
-These images can be injected into the ROM using the SGB2 Border Injector by Blizz:
+These images can be injected into the ROM using the SGB2 Border Injector by blizzz:
 
 https://www.romhacking.net/utilities/1653/
 
